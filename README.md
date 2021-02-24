@@ -1,2 +1,3 @@
-# revert-test
-测试 revert 为什么，之前没有生效
+# git reset/revert test
+
+version 1
